@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Om Thakur - Tech Creator, Cloud and AI Builder" width="100%"/>
+  <img src="assets/banner.svg" alt="Om Thakur - Cloud, DevOps/SRE and AI Engineer, YouTube Creator" width="100%"/>
 </p>
 
 <p align="center">
@@ -15,22 +15,37 @@
 
 ## ◆ About
 
-I'm a CS student in Kathmandu who builds things on the cloud, teaches others how to do it, and tells stories about tech on video.
-My work sits where **cloud infrastructure**, **AI video pipelines** and **tech content** meet.
+Cloud Engineer, DevOps/SRE and AI engineer based in Kathmandu. I design secure, automated, cost-aware platforms across **AWS, Azure and GCP**, build **AI/ML and video-generation systems** that run in production, and turn what I learn into training, mentoring, technical writing and YouTube content.
+
+> Priorities on every system: **security · reliability · scalability · performance · automation · maintainability · cost**.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🎬 Create</h3>
-      Deep-dive videos on AI, global tech and semiconductors through <b>Om Thakur Explain</b> and <b>Engineer Toons</b>.
+      <h3>☁️ Cloud &amp; Platform</h3>
+      Multi-cloud architecture on AWS, Azure and GCP. Infrastructure as Code, landing zones, IAM and security baselines, FinOps.
     </td>
     <td width="33%" valign="top">
-      <h3>☁️ Train &amp; Consult</h3>
-      Cloud and DevOps training, career mentorship for engineers, and practical consulting.
+      <h3>🔁 DevOps / SRE</h3>
+      CI/CD, GitOps, Kubernetes, observability and SLI/SLO-driven reliability, with incident response and automation at the core.
     </td>
     <td width="33%" valign="top">
-      <h3>⚙️ Build</h3>
-      Full-stack apps with Next.js and TypeScript, plus automated short-video pipelines in Python.
+      <h3>🧠 AI Engineering &amp; Research</h3>
+      LLM and ML systems with evaluation, deployment and MLOps. Models treated as production services, not notebooks.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎬 AI Video &amp; Content</h3>
+      Automated pipelines from prompt to script, scenes, voiceover, subtitles and render. Content for <b>Om Thakur Explain</b> and <b>Engineer Toons</b> on AI, global tech and semiconductors.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎓 Training &amp; Mentoring</h3>
+      Hands-on labs, workshops, learning paths and certification-focused programs for cloud and DevOps engineers.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 Consulting &amp; Writing</h3>
+      Architecture reviews, platform and cost optimization, plus clear technical writing and documentation.
     </td>
   </tr>
 </table>
@@ -42,21 +57,30 @@ My work sits where **cloud infrastructure**, **AI video pipelines** and **tech c
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
 | [**YT Motion Studio**](https://github.com/omthakurofficial/YT-Motion-Studio) | AI motion and video studio, my most active build | `AI` `Video` |
-| [**OrderChha**](https://github.com/omthakurofficial/orderchha) | Ordering app for food businesses | `TypeScript` |
+| [**OrderChha**](https://github.com/omthakurofficial/orderchha) | Ordering platform for food businesses | `TypeScript` |
 | [**Thakur AgriTools Hub**](https://github.com/omthakurofficial/thakur-agritools-hub) | Digital tools platform for agriculture | `TypeScript` |
-| [**TekBay Academy**](https://github.com/omthakurofficial/tekbay-academy) | Landing page for the Cloud Apprenticeship Program | `TypeScript` |
-| [**AWS re/Start**](https://github.com/omthakurofficial/awsrestartgithub) | Hands-on AWS labs and cloud fundamentals | `Python` `AWS` |
+| [**TekBay Academy**](https://github.com/omthakurofficial/tekbay-academy) | Cloud Apprenticeship Program site | `TypeScript` |
+| [**AWS Labs**](https://github.com/omthakurofficial/awsrestartgithub) | Hands-on AWS labs for training material | `Python` `AWS` |
 
-<sub>Currently studying open-source AI video generators: [YumCut](https://github.com/omthakurofficial/app.yumcut.com) and [short-video-generator-AI](https://github.com/omthakurofficial/short-video-generator-AI).</sub>
+<sub>Studying and building on open-source AI video generators: [YumCut](https://github.com/omthakurofficial/app.yumcut.com) and [short-video-generator-AI](https://github.com/omthakurofficial/short-video-generator-AI).</sub>
 
 <img src="assets/divider.svg" width="100%"/>
 
 ## ◆ Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,nodejs,aws,linux,git,docker,githubactions&theme=dark" />
-</p>
-<!-- Remove icons for anything you don't actually use -->
+<!-- Keep only what you actually use in production -->
+
+**Cloud & Platform**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux&theme=dark" />
+
+**CI/CD & Observability**<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,git,prometheus,grafana&theme=dark" />
+
+**Languages & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=py,ts,bash,nextjs,react,nodejs&theme=dark" />
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -77,6 +101,8 @@ My work sits where **cloud infrastructure**, **AI video pipelines** and **tech c
 
 <img src="assets/divider.svg" width="100%"/>
 
-<p align="center">
-  <sub>Open to collaborations, internships and consulting. Say hello at <a href="https://omthakur.info.np">omthakur.info.np</a></sub>
-</p>
+## ◆ Work with me
+
+**Cloud and DevOps consulting · corporate and individual training · mentoring · technical writing · AI and video automation**
+
+Start at **[omthakur.info.np](https://omthakur.info.np)**.
