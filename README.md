@@ -87,8 +87,8 @@ Cloud Engineer, DevOps/SRE and AI engineer based in Kathmandu. I design secure, 
 ## ◆ Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omthakurofficial&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=fb923c&icon_color=c2410c&text_color=e5e7eb&ring_color=c2410c"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omthakurofficial&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=fb923c&text_color=e5e7eb"/>
+  <img height="190" src="https://raw.githubusercontent.com/omthakurofficial/omthakurofficial/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+  <img height="190" src="https://raw.githubusercontent.com/omthakurofficial/omthakurofficial/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 </p>
 
 <p align="center">
